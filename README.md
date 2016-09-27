@@ -6,7 +6,7 @@
 <a id="user-content-book-H03" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/新紀元習江生死鬥全集系列-46270188?m=https://d6rojcwfw6e31.cloudfront.net&amp;u=1001web" title="习江斗系列"><img border="0" height="260" alt="习江斗系列" src="https://cloud.githubusercontent.com/assets/18081243/18481086/ed55931a-79a8-11e6-9f2d-e28fc3447d1e.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-H04" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/新紀元大陸最陰險官員曾慶紅-2687641?m=https://d6rojcwfw6e31.cloudfront.net&amp;u=1001web" title="曾庆红系列"><img border="0" height="260" alt="曾庆红系列" src="https://cloud.githubusercontent.com/assets/18081243/18481092/f24ff2c0-79a8-11e6-984f-71c3385a21be.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-H05" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/新紀元抓捕江澤民系列-44841533?m=https://d6rojcwfw6e31.cloudfront.net&amp;u=1001web" title="江泽民系列"><img border="0" height="260" alt="江泽民系列" src="https://cloud.githubusercontent.com/assets/18081243/18481104/fddcc438-79a8-11e6-8b20-1cc27e87e57f.jpg" style="max-width:100%;"></a>
-<p><img src="https://cloud.githubusercontent.com/assets/19661274/16099611/82086396-339c-11e6-89e2-241320f5f270.png"></p>
+<p><img src="https://cloud.githubusercontent.com/assets/20497761/18823715/69f77696-838a-11e6-82f7-6c9694358fd1.png"></p>
 <p><a id="user-content-xjyweekly" href="https://github.com/xjy16/weekly/blob/master/README.md">新紀元周刊</a>每週三出刊
 <a id="user-content-xjybook" href="https://d6rojcwfw6e31.cloudfront.net/cn/books/shop?m=https://d6rojcwfw6e31.cloudfront.net&amp;u=1001web">新紀元電子商務網-新紀元書城</a>.</p>
 <p>台灣：誠品、金石堂、博客來網路書店、機場等各大書店發售 | 香港/澳門書店及旺角、尖沙咀、銅鑼灣、澳門書報攤發售</p>
